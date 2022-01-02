@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import sys
 import sqlite3
 
@@ -70,5 +69,4 @@ def main(argv):
 
 
 if __name__ == "__main__":
->>>>>>> d0003a69a30b12eb7ae6cfde979def86e694523c
     main(sys.argv)
